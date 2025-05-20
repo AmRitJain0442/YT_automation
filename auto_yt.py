@@ -11,7 +11,7 @@ driver =webdriver.Chrome(service=service)
 
 
 email = "bitsburiburi@gmail.com"
-password = "buriburiabc123"
+password = ""
 
 description="Get ready for a MEGA dose of adorableness! This short compilation is packed with the cutest moments between our furry feline and canine friends. You'll see playful pups, cuddly kitties, and the most heartwarming friendships that will melt your heart." 
 
